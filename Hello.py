@@ -21,3 +21,9 @@ word = word.lower()
 print(word)
 word = word.capitalize()
 print(word)
+list =[1,2,3]
+print(list)
+s = {1,2,3}
+print(s)
+s'=sx20
+
